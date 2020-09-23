@@ -1,6 +1,9 @@
 ### Hi there, I'm Daeng Muhammad Feisal.👋
 ### Product Designer from Indonesia 🇮🇩
 
+[![Daeng's github stats](https://github-readme-stats.vercel.app/api?username=daengdoang)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **daengdoang/daengdoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
