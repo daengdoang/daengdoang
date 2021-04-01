@@ -1,7 +1,11 @@
 ### Hi there, I'm Daeng Muhammad Feisal.👋
 ### Product Designer from Indonesia 🇮🇩
 
+![Alt text](https://media.giphy.com/media/GXFDStd2CP1ba/source.gif "Hugs!")
+
+
 [![Daeng's github stats](https://github-readme-stats.vercel.app/api?username=daengdoang)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
