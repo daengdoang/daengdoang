@@ -1,4 +1,4 @@
-### Hi there, I'm Daeng Muhammad Feisal.👋
+### Hi there, I'm Daeng M. Feisal.👋
 ### Product Designer from Indonesia 🇮🇩
 
 ![Alt text](https://media.giphy.com/media/GXFDStd2CP1ba/source.gif "Hugs!")
