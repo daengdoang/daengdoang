@@ -1,5 +1,4 @@
-### Hi there, I'm Daeng M. Feisal.👋
-### Product Designer from Indonesia 🇮🇩
+
 
 ![Alt text](https://media.giphy.com/media/GXFDStd2CP1ba/source.gif "Hugs!")
 
@@ -10,7 +9,8 @@
 
 <!--
 **daengdoang/daengdoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there, I'm Daeng M. Feisal.👋
+### Product Designer from Indonesia 🇮🇩
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
